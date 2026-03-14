@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(88, 85, 85);
+}
+
+.fácil2x2 {
+    background-color: rgb(0, 177, 0);
+}
+
+.medio4x4 {
+    background-color: rgb(255, 238, 0);
+}
+
+.difícil5x5 {
+    background-color: rgb(255, 115, 0);
+}
+
+.muydifícil6x6 {
+    background-color: rgb(255, 0, 0);
+}
+
+.h1 {
+    color: black;
+    background-color: rgb(219, 3, 3);
+}

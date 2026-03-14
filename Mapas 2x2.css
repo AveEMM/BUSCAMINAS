@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(77, 77, 77);
+}
+
+.titulo {
+    background-color: rgb(180, 49, 9);
+}
+
+.juego1 {
+    background-color: rgb(0, 131, 0);
+}
+
+.juego2 {
+    background-color:  rgb(1, 170, 1);
+}
+
+.juego3 {
+    background-color: rgb(0, 201, 0);
+}
+
+.juego4 {
+    background-color: rgb(3, 218, 3);
+}

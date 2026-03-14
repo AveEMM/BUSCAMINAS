@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+
+h2 {
+  color: goldenrod;
+}
+
+.aqua {
+color: aquamarine;
+background-color: blue;
+}
+
+.button {
+  background-color: rgb(241, 206, 5);
+}
