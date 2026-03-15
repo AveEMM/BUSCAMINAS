@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  text-align: center;
 }
 
 h2 {
@@ -13,4 +14,8 @@ background-color: blue;
 
 .button {
   background-color: rgb(241, 206, 5);
+}
+
+.act {
+  background-color: rgb(2, 184, 2);
 }
